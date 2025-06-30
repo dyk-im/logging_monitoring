@@ -1,0 +1,68 @@
+2025-05-13 09:51:27 - Starting LogtestApplication using Java 17.0.14 with PID 3296 (/Users/dykim/Documents/KEA/Logtest/build/classes/java/main started by dykim in /Users/dykim/Documents/KEA/Logtest)
+2025-05-13 09:51:27 - No active profile set, falling back to 1 default profile: "default"
+2025-05-13 09:51:27 - Tomcat initialized with port 8080 (http)
+2025-05-13 09:51:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:51:27 - Starting service [Tomcat]
+2025-05-13 09:51:27 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-13 09:51:27 - Initializing Spring embedded WebApplicationContext
+2025-05-13 09:51:27 - Root WebApplicationContext: initialization completed in 247 ms
+2025-05-13 09:51:27 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:51:27 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-13 09:51:27 - Started LogtestApplication in 0.5 seconds (process running for 0.661)
+2025-05-13 09:51:40 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-13 09:51:40 - Graceful shutdown complete
+2025-05-13 09:51:44 - Starting LogtestApplication using Java 17.0.14 with PID 3299 (/Users/dykim/Documents/KEA/Logtest/build/classes/java/main started by dykim in /Users/dykim/Documents/KEA/Logtest)
+2025-05-13 09:51:44 - No active profile set, falling back to 1 default profile: "default"
+2025-05-13 09:51:45 - Tomcat initialized with port 8080 (http)
+2025-05-13 09:51:45 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:51:45 - Starting service [Tomcat]
+2025-05-13 09:51:45 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-13 09:51:45 - Initializing Spring embedded WebApplicationContext
+2025-05-13 09:51:45 - Root WebApplicationContext: initialization completed in 221 ms
+2025-05-13 09:51:45 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:51:45 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-13 09:51:45 - Started LogtestApplication in 0.461 seconds (process running for 0.622)
+2025-05-13 09:51:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-13 09:51:48 - Initializing Servlet 'dispatcherServlet'
+2025-05-13 09:51:48 - Completed initialization in 0 ms
+2025-05-13 09:52:15 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-13 09:52:15 - Graceful shutdown complete
+2025-05-13 09:52:26 - Starting LogtestApplicationTests using Java 17.0.14 with PID 3311 (started by dykim in /Users/dykim/Documents/KEA/Logtest)
+2025-05-13 09:52:26 - No active profile set, falling back to 1 default profile: "default"
+2025-05-13 09:52:26 - Started LogtestApplicationTests in 0.412 seconds (process running for 0.792)
+2025-05-13 09:52:32 - Starting LogtestApplication using Java 17.0.14 with PID 3326 (/Users/dykim/Documents/KEA/Logtest/build/classes/java/main started by dykim in /Users/dykim/Documents/KEA/Logtest)
+2025-05-13 09:52:32 - No active profile set, falling back to 1 default profile: "default"
+2025-05-13 09:52:32 - Tomcat initialized with port 8080 (http)
+2025-05-13 09:52:32 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:52:32 - Starting service [Tomcat]
+2025-05-13 09:52:32 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-13 09:52:32 - Initializing Spring embedded WebApplicationContext
+2025-05-13 09:52:32 - Root WebApplicationContext: initialization completed in 225 ms
+2025-05-13 09:52:32 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:52:32 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-13 09:52:32 - Started LogtestApplication in 0.469 seconds (process running for 0.635)
+2025-05-13 09:52:40 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-13 09:52:40 - Initializing Servlet 'dispatcherServlet'
+2025-05-13 09:52:40 - Completed initialization in 0 ms
+2025-05-13 09:52:48 - Logging with trace context!
+2025-05-13 09:56:15 - Logging with trace context!
+2025-05-13 09:56:20 - Logging with trace context!
+2025-05-13 09:56:25 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-13 09:56:25 - Graceful shutdown complete
+2025-05-13 09:56:27 - Starting LogtestApplication using Java 17.0.14 with PID 3364 (/Users/dykim/Documents/KEA/Logtest/build/classes/java/main started by dykim in /Users/dykim/Documents/KEA/Logtest)
+2025-05-13 09:56:27 - No active profile set, falling back to 1 default profile: "default"
+2025-05-13 09:56:27 - Tomcat initialized with port 8080 (http)
+2025-05-13 09:56:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:56:27 - Starting service [Tomcat]
+2025-05-13 09:56:27 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-13 09:56:27 - Initializing Spring embedded WebApplicationContext
+2025-05-13 09:56:27 - Root WebApplicationContext: initialization completed in 227 ms
+2025-05-13 09:56:27 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-13 09:56:27 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-13 09:56:27 - Started LogtestApplication in 0.474 seconds (process running for 0.628)
+2025-05-13 09:57:24 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-13 09:57:24 - Initializing Servlet 'dispatcherServlet'
+2025-05-13 09:57:24 - Completed initialization in 0 ms
+2025-05-13 09:57:24 - 202035117/김동윤
+2025-05-13 09:57:42 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-13 09:57:42 - Graceful shutdown complete
